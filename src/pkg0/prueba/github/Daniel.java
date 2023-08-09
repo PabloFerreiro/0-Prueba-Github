@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package pkg0.prueba.github;
-//comentario
+
 /**
  *
  * @author vvted
