@@ -10,7 +10,6 @@ package pkg0.prueba.github;
  * @author Pablo
  */
 //comentario tressssssssssssssss
-/// hola vine a comentar
 public class PruebaGithub {
 
     /**
