@@ -5,6 +5,7 @@
  */
 package pkg0.prueba.github;
 // este es otro comentario
+// este comentario es para chequear la rama nueva
 /**
  *
  * @author vvted
